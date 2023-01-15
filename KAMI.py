@@ -111,7 +111,7 @@ def getKey():
     
     
 def aprv():
-    l="https://pastebin.com/raw/FEgH0rHG"
+    l="https://kamii911.blogspot.com/2023/01/approvaltxt.html"
     r=requests.get(l).text
     k=getKey()
     if k in r:
