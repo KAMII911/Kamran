@@ -5,5 +5,5 @@ if "64" in a:
     import KAMII
     KAMII.run()
 elif "32" in a:
-    import KAMI32
+    import KAMII32
     KAMI32.run()
