@@ -5,5 +5,5 @@ if "64" in a:
     import file
     file.run()
 elif "32" in a:
-    import KAMII32
+    import file32
     file32.run()
